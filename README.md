@@ -6,3 +6,4 @@ This repo contains a notebook to scrape seven days worth of tweets associated wi
 A second notebook is included for some basic tokenization/normalization and text statistics.
 
 More information about the twitter objects used to curate this text data can be found here: https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object
+I have not included my API keys in this repo; you will need to modify the code to pull from your personal keys.
