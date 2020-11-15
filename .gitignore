@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+20201019_Sentiment_tweets.txt
+20201025_Sentiment_tweets.txt
+20201101_Sentiment_tweets.txt
+20201109_Sentiment_tweets.txt
+*.docx
 __pycache__/
 *.py[cod]
 *$py.class
